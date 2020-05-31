@@ -1,0 +1,3 @@
+commands : 
+windows : .\main.exe
+linux : wine ./main.exe
